@@ -1,0 +1,10 @@
+# most recent versions as of 2024-09-11
+matplotlib==3.9.2  # visualizations
+seaborn==0.13.2  # visualizations
+plotly==5.24.0  # visualizations
+scikit-learn==1.5.2  # ML library
+pandas==2.2.2  # data structures library
+pillow==10.4.0  # image processing and display library
+nbconvert==7.16.4  # Jupyter notebook format, required for Plotly in VS Code
+nbformat==5.10.4  # Jupyter notebook conversion, required for converting notebooks to HTML, PDF, etc.
+ipykernel==6.29.5  # kernel for Jupyter notebooks
